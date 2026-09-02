@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnchosen601-rgb.github.io/johnchosen601-rgb.github.oi/sitemap.xml
